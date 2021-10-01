@@ -1,2 +1,3 @@
 # GoodReads
-Advanced Programming Computer Assignment 4
+
+Analysis some data from GoodReads website
